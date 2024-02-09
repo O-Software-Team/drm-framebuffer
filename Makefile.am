@@ -1,6 +1,6 @@
 AUTOMAKE_OPTIONS = foreign
 
-CC      ?= gcc
+#CC      ?= gcc
 CFLAGS  ?= -O0 -ggdb -pedantic -Wall -I /usr/include/libdrm
 LDFLAGS ?= -ldrm
 

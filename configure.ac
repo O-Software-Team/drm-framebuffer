@@ -3,7 +3,7 @@
 AC_PREREQ([2.71])
 AC_INIT([drm-framebuffer],[1.0],[dfields@ocompany.io])
 #AM_INIT_AUTOMAKE()
-AC_CONFIG_SRCDIR(main.c)
+AC_CONFIG_SRCDIR()
 AC_CONFIG_HEADERS([config.h])
 #
 # Checks for programs.
